@@ -2,18 +2,13 @@
 
 <div align="center">
   
-  <!-- Cool Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krisvarish&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <!-- Custom Sunset Gradient Banner -->
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=sunset&color=gradient&customColorList=12,20,14,17,13&height=300&section=header&text=Krisvarish&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Developer%20%7C%20Code%20Wizard%20%7C%20Problem%20Solver&descSize=20&descAlignY=70"/>
   
-  <!-- Animated Title with better styling -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=AI+Developer+%F0%9F%A4%96;Code+Wizard+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
-  </h1>
-  
-  <!-- Cool tagline with gradient -->
-  <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9046CF&center=true&vCenter=true&width=600&lines=Making+machines+smarter+so+humans+can+chill+%F0%9F%98%8E" alt="Tagline" />
-  </h3>
+  <!-- Cool tagline with warm colors -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF8A80&center=true&vCenter=true&width=600&lines=%22Making+machines+smarter+so+humans+can+chill%22+%F0%9F%98%8E;%E2%9C%A8+Building+AI+that+actually+makes+sense+%E2%9C%A8;%F0%9F%9A%80+From+Chennai+with+%E2%9D%A4%EF%B8%8F+%F0%9F%9A%80" alt="Tagline" />
+  </h2>
   
 </div>
 
