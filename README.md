@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  <!-- Custom Sunset Gradient Banner -->
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=sunset&color=gradient&customColorList=12,20,14,17,13&height=300&section=header&text=Krisvarish&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=AI%20Developer%20%7C%20Code%20Wizard%20%7C%20Problem%20Solver&descSize=20&descAlignY=70"/>
+  <!-- Your Custom Header Image -->
+  <img src="Header-banner.jfif" width="100%" alt="Hey there! I'm Krisvarish"/>
   
-  <!-- Cool tagline with warm colors -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF8A80&center=true&vCenter=true&width=600&lines=%22Making+machines+smarter+so+humans+can+chill%22+%F0%9F%98%8E;%E2%9C%A8+Building+AI+that+actually+makes+sense+%E2%9C%A8;%F0%9F%9A%80+From+Chennai+with+%E2%9D%A4%EF%B8%8F+%F0%9F%9A%80" alt="Tagline" />
-  </h2>
+  <!-- Simple tagline below the image -->
+  <h3 align="center" style="margin-top: 20px;">
+    <em>"Making machines smarter so humans can chill"</em> 😎
+  </h3>
   
 </div>
 
