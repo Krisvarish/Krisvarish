@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Your Custom Header Image -->
-  <img src="Header-banner.jfif" width="100%" alt="Hey there! I'm Krisvarish"/>
+  <img src="grizzy.gif" width="100%" alt="Hey there! I'm Krisvarish"/>
   
   <!-- Simple tagline below the image -->
   <h3 align="center" style="margin-top: 20px;">
