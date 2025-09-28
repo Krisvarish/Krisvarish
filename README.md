@@ -1,7 +1,20 @@
 # Hey there! 👋 I'm Krisvarish
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Developer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Making+machines+smarter+so+humans+can+chill+%F0%9F%98%8E" alt="Typing SVG" />
+  
+  <!-- Cool Header Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krisvarish&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  
+  <!-- Animated Title with better styling -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=AI+Developer+%F0%9F%A4%96;Code+Wizard+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  </h1>
+  
+  <!-- Cool tagline with gradient -->
+  <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9046CF&center=true&vCenter=true&width=600&lines=Making+machines+smarter+so+humans+can+chill+%F0%9F%98%8E" alt="Tagline" />
+  </h3>
+  
 </div>
 
 <div align="center">
