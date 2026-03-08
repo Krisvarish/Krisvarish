@@ -120,7 +120,7 @@ krisvarish@github:~$ currently_learning
 
 ## Find me around the internet
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisvarish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisvarish-venkatesan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/krisvarish)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_kv_10_)
 [![Resume](https://img.shields.io/badge/Resume-PDF-D00000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/krisvarish/krisvarish/raw/main/resume.pdf)
