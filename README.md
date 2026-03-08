@@ -123,7 +123,7 @@ krisvarish@github:~$ currently_learning
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisvarish-venkatesan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/krisvarish)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_kv_10_)
-[![Resume](https://img.shields.io/badge/Resume-PDF-D00000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/krisvarish/krisvarish/raw/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D00000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/krisvarish/krisvarish/raw/main/Krisvarish_Venkatesan-résumé.pdf)
 [![Email](https://img.shields.io/badge/kris7varish@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kris7varish@gmail.com)
 [![Discord](https://img.shields.io/badge/kris__10__-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kris_10_)
 
